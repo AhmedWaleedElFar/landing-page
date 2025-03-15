@@ -24,8 +24,13 @@ This project is designed to help me practice and solidify my skills in HTML and 
 -Git: For version control.
 -GitHub Pages: For hosting the live site.
 
+### Features
+- Hero section with a call-to-action button.
+- Flexbox layout for easy positioning and alignment.
+
 ### How to view the project
 1. Live Demo: You can view the live version of this project by copying the following link: https://ahmedwaleedelfar.github.io/landing-page/
+
 2. Local Setup:
     -Clone the repository: git clone https://github.com/AhmedWaleedElFar/landing-page.git
     -Open the index.html file in your browser.
