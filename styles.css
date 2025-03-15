@@ -38,6 +38,10 @@ body {
     color: #E5E7EB;
 }
 
+.first-div {
+    background-color: #1F2937;
+    width: 100%;
+}
 .content {
     display: flex;
     flex-direction: column;
@@ -47,11 +51,59 @@ body {
 
 .first-div {
     display: flex;
+    justify-content: center;
+    gap: 9em;
+    padding: 4% 0%;
 }
 
-.quote-div {
-    
+.first-div .left-side, .first-div .right-side {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 4% 0;
 }
+
+.first-div .left-side button{
+    background-color: #3882f6;
+    color: #F9FAF8;
+    padding: 2% 7%;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: large;
+}
+
+.first-div .right-side {
+    padding: 0 10%;
+    align-items: flex-start;
+}
+
+.first-div .left-side {
+    width: 22%;
+    align-items: flex-start;
+}
+
+.first-div .left-side h1 {
+    color: #F9FAF8;
+    font-size: 48px;
+    font-weight: 900;
+    margin: 0;
+}
+
+.first-div .left-side p {
+    color: #E5E7EB;
+    margin-top: 0;
+    font-size: large;
+}
+
+.first-div .right-side {
+    background-color: #6D747D;
+    color: #E5E7EB;
+}
+
+
+
 .footer {
     display: flex;
     justify-content: center;
