@@ -8,7 +8,7 @@ This is a landing page project created as part of The Odin Project curriculum. T
 4. How to view the project
 
 ### Introduction
-This project is designed to help me practice and solidify my skills in HTML and CSS. The goal is to recreate a landing page based on provided design images, focusing on layout, styling, and responsiveness (desktop-only for now). I also took the opportunity to personalize the content and images to make the project more unique.
+This project is designed to help me practice and solidify my skills in HTML and CSS. The goal is to recreate a landing page based on provided design images (design.png), focusing on layout and styling.
 
 ### Project Requirements
 -Recreate a landing page from provided design images.
